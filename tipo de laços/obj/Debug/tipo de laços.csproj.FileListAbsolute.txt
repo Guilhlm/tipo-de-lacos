@@ -1,0 +1,7 @@
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\bin\Debug\tipo de laços.exe.config
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\bin\Debug\tipo de laços.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\bin\Debug\tipo de laços.pdb
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\obj\Debug\tipo de laços.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\obj\Debug\tipo de laços.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\obj\Debug\tipo de laços.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\laços\tipo de laços\tipo de laços\obj\Debug\tipo de laços.pdb
